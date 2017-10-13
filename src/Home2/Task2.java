@@ -22,6 +22,11 @@ public class Task2{
         System.out.println("Город:    "+town);
         System.out.println("Возраст:  "+age);
 
+        System.out.print("Человек по имени "+name);
+        System.out.print(",живет в городе "+town);
+        System.out.print(". Этому человеку "+age);
+        System.out.println(" лет.");
+
 
 
 
